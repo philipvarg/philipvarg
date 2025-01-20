@@ -5,16 +5,17 @@
 <br>
 
 <p> 
-You are invited to journey with me on my Pyton adventures.<br>
+You are invited to journey with me on my Python adventures.<br>
 The journey begins with a simple number guessing game and gradually build up until ....<br>
 ... we reach machine learning, AI, game development and beyond. <br>
-    I made this repo specifically for Pyton but may share any other works I created.
+    I made this repo specifically for Python but may share any other works I created.
 </p>
 
-## Tools currently using (varies with project)
+## Tools used for this page
 - Jupyter notebook
 - Jupyter Lab
 - VS Code
+- GIT Bash
 
 <!--
 - 😊 I’m @MikeTeachesCode, creator of [Holistic Coding](https://www.holisticcoding.com)
